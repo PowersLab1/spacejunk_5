@@ -64,7 +64,7 @@ export function thisTry(globalState, ctx) {
     }
 
     // The URL for the test data CSV
-    const testDataURL = "https://raw.githubusercontent.com/Powers-Lab/space_game_resources/main/pacetask_jitter_v2.csv"
+    const testDataURL = "https://raw.githubusercontent.com/Powers-Lab/space_game_resources/main/pacetask_jitter_v5.csv"
 
     // Get the Data for the test
     getData(testDataURL).then((testData) => {

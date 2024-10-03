@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "spacejunk_2",
+  "taskName": "spacejunk_5",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
